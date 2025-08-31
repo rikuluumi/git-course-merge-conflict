@@ -1,0 +1,2 @@
+# git-course-merge-conflict
+
